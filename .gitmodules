@@ -1,0 +1,6 @@
+[submodule "libs/debug"]
+	path = libs/debug
+	url = https://github.com/abu-lib/debug.git
+[submodule "libs/mem"]
+	path = libs/mem
+	url = https://github.com/abu-lib/mem.git
